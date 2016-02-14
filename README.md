@@ -13,5 +13,10 @@ Read more about the project in the [thesis report](https://github.com/mofus/Simu
 To build the project you need to put some mp3 files in the ```audio``` directory and fix the error in ```Node.swift```
 You may also need to import or remove the HockeyApp integration.
 
+## Acknowledgements
+This project was supervised by the brilliant [Clint Heyer](https://github.com/ClintH).
+
+This project use [Async.swift](https://github.com/duemunk/Async) by Tobias Due Munk.
+
 ## Disclaimer
 This repository is currently in a very rouch state, if you have problems please contact me.
